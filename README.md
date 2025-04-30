@@ -1,6 +1,6 @@
 ### Hi! I'm Dominik 👋
 
-I'm a Full-Stack Engineer, formerly at Waze and Unstoppable Domains.
+I'm a Full-Stack Engineer passionate about open source. Formerly at Waze, PandaDoc, and Unstoppable Domains.
 
 Currently building an AI solution for designing data centers and learning a ton about LLMs.
 
