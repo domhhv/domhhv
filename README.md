@@ -1,11 +1,13 @@
 ### Hi! I'm Dominik 👋
 
-I'm a Full-Stack Engineer passionate about open source. Formerly at Waze, PandaDoc, and Unstoppable Domains.
+I'm a Senior Full-Stack Engineer specializing in AI/LLM integration and building intelligent web applications.
 
-Currently building an AI solution for designing data centers and learning a ton about LLMs.
+**Recent experience:** Built AI-powered data center design tool as sole engineer at early-stage startup, integrating OpenAI, Claude, and Perplexity APIs with Next.js and TypeScript.
 
-I develop JavaScript apps, both client-side and server-side. I'm also working to understand clouds and networks more deeply.
+**Previously:** Contributed to decentralized web at Unstoppable Domains, built internal tools at Waze, and worked across various startups over 10 years.
 
-In the last nine years, I have gained proficiency in TypeScript, React, Node.js, SQL, and many other technologies.
+**Stack:** TypeScript, React, Next.js, Node.js, PostgreSQL, AI/LLM APIs, and modern full-stack development.
 
-_Let's connect, and welcome to my profile!_
+Currently working on open-source projects including an AI-assisted text editor and habit tracking app.
+
+_Let's connect!_
