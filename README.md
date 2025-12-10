@@ -1,6 +1,6 @@
 ### Hi! I'm Dominik 👋
 
-I'm a Senior Full-Stack Engineer specializing in AI/LLM integration and building intelligent web applications.
+I'm a full-stack developer specializing in AI/LLM integration and building intelligent web applications.
 
 **Recent experience:** Built AI-powered data center design tool as sole engineer at early-stage startup, integrating OpenAI, Claude, and Perplexity APIs with Next.js and TypeScript.
 
