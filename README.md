@@ -2,7 +2,7 @@
 
 I'm a full-stack JavaScript developer building web applications with usability in mind.
 
-My main tech stack includes TypeScript, React, TailwindCSS, Next.js, Node.js, Express, NestJS, PostgreSQL, Supabase, TypeORM, and more.
+My main tech stack includes TypeScript, React, TailwindCSS, Next.js, Node.js, Express, NestJS, PostgreSQL, Supabase, TypeORM, Lexical, and more.
 
 I've also worked with AI/LLM APIs, like those of OpenAI, Anthropic Claude, and Perplexity, and SDKs such as Vercel AI SDK.
 
