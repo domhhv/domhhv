@@ -25,4 +25,4 @@ Apart from that, I've built internal tools at Waze (Google) and acted as a found
 
 With over 10 YOE, I bring strong ownership, collaborative spirit, and product mindset to the table.
 
-I'm available for hire and looking for an autonomous environment with async-first culture where I can build impactful tools and products.
+I'm available for hire and looking for an async-first, autonomous environment where I can build impactful tools and products.
