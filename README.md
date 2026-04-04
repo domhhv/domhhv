@@ -23,6 +23,6 @@ Apart from that, I've built internal tools at Waze (Google) and acted as a found
 
 ### Let's connect
 
-With 9 YOE, I bring strong ownership, collaborative spirit, product mindset, and shipping bias to the table.
+With 8 YOE, I bring strong ownership, collaborative spirit, product mindset, and shipping bias to the table.
 
 I'm available for hire and looking for an async-first, autonomous environment where I can build impactful tools and products.
