@@ -19,7 +19,7 @@ Apart from that, I've built internal tools at Waze (Google) and acted as a found
 
 - 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** | [emailcompat.dev](emailcompat.dev) – _HTML email rendering compatibility report across email clients_
 - 🔃 **[Habitrack](https://github.com/domhhv/habitrack)** | [habitrack.io](habitrack.io) – _a calendar habit-tracking SPA powered by Supabase_
-- ⌨️ **[Smartext](https://github.com/domhhv/smartext)** | [smartext.chat](smartext.chat) – _rich-text editor with AI-assisted writing (BYOK)_
+- ⌨️ **[Smartext](https://github.com/domhhv/smartext)** | [smartext.chat](smartext.app) – _rich-text editor with AI-assisted writing (BYOK)_
 
 ### Let's connect
 
