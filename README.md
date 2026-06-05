@@ -1,21 +1,19 @@
-## Hi! I'm Dominik 👋
+## Hi, I'm Dominik 👋
 
-I'm a full-stack JavaScript developer building web applications and distributed product systems with event-driven architecture, LLM integration, and usability and scalability in mind.
+### I help founders turn ideas into shipping products — without hiring a whole team to do it.
 
-I've helped Google's Waze build critical internal tools and enabled an early-stage AI-startup founders rapidly test their ideas, effectively acting as a founding sole engineer.
+Most recently, I was the sole founding engineer at an AI startup, where I took an idea to a live product from start to finish, including architecture, LLM integration and the entire pipeline.
 
-I've also contributed to the decentralized Web3 at Unstoppable Domains and Akash Network.
+I also assisted **Google's Waze** with developing critical internal tools and **Unstoppable Domains** with refining the UX of every critical flow on a marketplace that sold 3M+ on-chain domains.
 
-I work with TypeScript, React, TailwindCSS, Next.js, Node.js, Express, NestJS, PostgreSQL, Supabase, Python and more.
+To sum up, I spent 10 years building for businesses that engaged web users at scale.
 
-### Current personal projects in active development:
+**And I don’t wait to be told what to build.** Right now, I have three products that I designed and released on my own.
 
-- 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** | [emailcompat.dev](emailcompat.dev) – _HTML email rendering compatibility report across email clients_
-- 🔃 **[Habitrack](https://github.com/domhhv/habitrack)** | [habitrack.io](habitrack.io) – _a calendar habit-tracking SPA powered by Supabase_
-- ⌨️ **[Smartext](https://github.com/domhhv/smartext)** | [smartext.app](smartext.app) – _rich-text editor with AI-assisted writing (BYOK)_
+- 🔃 **[Habitrack](https://github.com/domhhv/habitrack)** · [habitrack.io](https://habitrack.io) — a calendar habit-tracking SPA, powered by Supabase
+- ⌨️ **[Smartext](https://github.com/domhhv/smartext)** · [smartext.app](https://smartext.app) — a rich-text editor with AI-assisted writing (BYOK)
+- 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** · [emailcompat.dev](https://emailcompat.dev) — HTML email compatibility reporting across clients
 
-### Let's connect
+**Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Supabase · Python
 
-With over 10 YOE, I bring strong ownership, collaborative spirit, product mindset, and shipping bias to the table.
-
-I'm available for hire and looking for an async-first, autonomous environment where I can build impactful tools and products.
+I'm available for hire — looking for an async-first, autonomous environment where I can own products end-to-end and ship.
