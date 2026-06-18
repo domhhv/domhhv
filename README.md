@@ -1,12 +1,12 @@
 ## Hi, I'm Dominik 👋
 
-### I help founders turn ideas into shipping products — without hiring a whole team to do it.
+### I help distributed teams ship features that matter
 
-Most recently, I was the sole founding engineer at an AI startup, where I took an idea to a live product from start to finish, including architecture, LLM integration and the entire pipeline.
+Most recently, I was the sole founding engineer at an AI startup, where I took a concept to a live product from start to finish.
 
-I also assisted **Google's Waze** with developing critical internal tools and **Unstoppable Domains** with refining the UX of every critical flow on a marketplace that sold 3M+ on-chain domains.
+I also assisted **Waze** with developing internal tools and **Unstoppable Domains** with the UX of all key flows on their high-load marketplace.
 
-To sum up, I spent 10 years building for businesses that engaged web users at scale.
+Ten years total, building for companies from two-person startups to Google.
 
 **And I don’t wait to be told what to build.** Right now, I have three products that I designed and released on my own.
 
@@ -16,4 +16,4 @@ To sum up, I spent 10 years building for businesses that engaged web users at sc
 
 **Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Supabase · Python
 
-I'm available for hire — looking for an async-first, autonomous environment where I can own products end-to-end and ship.
+I'm available for hire — looking for an async-first, autonomous environment where I can own features end-to-end.
