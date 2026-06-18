@@ -4,11 +4,11 @@
 
 Most recently, I was the sole founding engineer at an AI startup, where I took a concept to a live product from start to finish.
 
-I also assisted **Waze** with developing internal tools and **Unstoppable Domains** with the UX of all key flows on their high-load marketplace.
+I've built internal tools at **Waze** and refined the UX of all key flows on a high-load marketplace at **Unstoppable Domains**.
 
-Ten years total, building for companies from two-person startups to Google.
+Ten years total, developing for companies from two-person startups to Google.
 
-**And I don’t wait to be told what to build.** Right now, I have three products that I designed and released on my own.
+Also, I have three products that I designed and released on my own.
 
 - 🔃 **[Habitrack](https://github.com/domhhv/habitrack)** · [habitrack.io](https://habitrack.io) — a calendar habit-tracking SPA, powered by Supabase
 - ⌨️ **[Smartext](https://github.com/domhhv/smartext)** · [smartext.app](https://smartext.app) — a rich-text editor with AI-assisted writing (BYOK)
