@@ -1,5 +1,3 @@
-## Hi, I'm Dominik 👋
-
 ### I help distributed teams ship features that matter
 
 Most recently, I was the sole founding engineer at an AI startup, where I took a concept to a live product from start to finish.
