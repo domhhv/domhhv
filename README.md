@@ -13,5 +13,3 @@ Also, I have three products that I designed and released on my own.
 - 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** · [emailcompat.dev](https://emailcompat.dev) — HTML email compatibility reporting across clients
 
 **Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Supabase · Python
-
-I'm available for hire — looking for an async-first, autonomous environment where I can own features end-to-end.
