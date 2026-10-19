@@ -1,4 +1,4 @@
-### I help distributed teams ship features that matter
+### I help distributed teams ship high-impact features
 
 Most recently, I was the sole founding engineer at an AI startup, where I took a concept to a live product from start to finish.
 
@@ -12,4 +12,4 @@ Also, I have three products that I designed and released on my own.
 - ⌨️ **[Smartext](https://github.com/domhhv/smartext)** · [smartext.app](https://smartext.app) — a rich-text editor with AI-assisted writing (BYOK)
 - 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** · [emailcompat.dev](https://emailcompat.dev) — HTML email compatibility reporting across clients
 
-**Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Supabase · Python
+**Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Prisma · Supabase · Python
