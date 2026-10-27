@@ -13,3 +13,9 @@ Also, I have three products that I designed and released on my own.
 - 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** · [emailcompat.dev](https://emailcompat.dev) — HTML email compatibility reporting across clients
 
 **Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Prisma · Supabase · Python
+
+As an AI-native engineer, I also leverage various agentic tools in my dev workflow while keeping code clean.
+
+I make AI multiply my strong engineering skills greatly: from planning to execution, testing and code reviews.
+
+I'm available for hire — looking for an async-first, autonomous environment where I can own features end-to-end.
