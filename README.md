@@ -12,7 +12,7 @@ Also, I have three products that I designed and released on my own.
 - ⌨️ **[Smartext](https://github.com/domhhv/smartext)** · [smartext.app](https://smartext.app) — a rich-text editor with AI-assisted writing (BYOK)
 - 📊 **[Emailcompat](https://github.com/domhhv/emailcompat)** · [emailcompat.dev](https://emailcompat.dev) — HTML email compatibility reporting across clients
 
-**Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Prisma · Supabase · Python
+**Stack:** TypeScript · React · TailwindCSS · Next.js · Node.js · NestJS · PostgreSQL · Prisma · Supabase · Python · Vercel AI SDK
 
 As an AI-native engineer, I also leverage various agentic tools in my dev workflow while keeping code clean.
 
